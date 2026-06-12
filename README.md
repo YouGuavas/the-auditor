@@ -6,4 +6,4 @@ Current utility is to scrape chamber of commerce sites.
 
 1. Open terminal
 2. cd to your directory
-3. python main.py <url>
+3. python main.py
